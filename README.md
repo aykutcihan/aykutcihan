@@ -2,13 +2,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Agile](https://img.shields.io/badge/-Agile-202020?style=flat&logo=Agile)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![Database](https://img.shields.io/badge/-Database-316192?style=flat&logo=PostgreSQL)
+![Database](https://img.shields.io/badge/-Database-316192?style=flat&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat)
 ![REST](https://img.shields.io/badge/-REST-FFA07A?style=flat)
 
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 
 
