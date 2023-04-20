@@ -21,10 +21,13 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/aykutcihan)
 
 
-### Hobiler ve İlgi Alanları
+### Hobbies and Interests
 
-- 🎾 Tenis
-- 🎻 Keman çalmak
+- 📚 Reading books
+- 🎻 Playing the violin
+- 🎨 Ebru art
+- 🎾 Tennis
+
 
 
 
