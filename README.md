@@ -8,6 +8,9 @@
 ![REST](https://img.shields.io/badge/-REST-FFA07A?style=flat)
 
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white
+
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykutcihan/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aykutcihan)
