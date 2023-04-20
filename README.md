@@ -5,7 +5,6 @@
 ![Database](https://img.shields.io/badge/-Database-316192?style=flat&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat)
-![REST](https://img.shields.io/badge/-REST-FFA07A?style=flat)
 
 
 
