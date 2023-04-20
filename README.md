@@ -17,7 +17,7 @@
 
 
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+31613762801?text=Merhaba%20Github'dan%20size%20ulaşıyorum)
+<!-- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+31613762801?text=Merhaba%20Github'dan%20size%20ulaşıyorum) -->
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/aykutcihan)
 
 
