@@ -1,3 +1,5 @@
+### Skills and Technologies
+
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 - ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL)
