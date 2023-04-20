@@ -23,7 +23,9 @@
 
 ### Hobiler ve İlgi Alanları
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Line_drawing_of_a_tennis_racket_and_ball.jpg/640px-Line_drawing_of_a_tennis_racket_and_ball.jpg" alt="Tenis" width="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Violin.svg/1280px-Violin.svg.png" alt="Keman" width="100"/>
+- 🎾 Tenis
+- 🎻 Keman çalmak
+
 
 
 
