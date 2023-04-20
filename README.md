@@ -1,10 +1,9 @@
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Agile](https://img.shields.io/badge/-Agile-202020?style=flat&logo=Agile)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL)
-![Database](https://img.shields.io/badge/-Database-316192?style=flat&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+- ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL)
+- ![Database](https://img.shields.io/badge/-Database-316192?style=flat&logo=PostgreSQL)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+- ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat)
 
 
 ### Connect with me
@@ -15,7 +14,7 @@
 - [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/acd24)
 
 <!-- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+31613762801?text=Merhaba%20Github'dan%20size%20ulaşıyorum) -->
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/aykutcihan)
+- [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/aykutcihan)
 
 
 ### Hobbies and Interests
