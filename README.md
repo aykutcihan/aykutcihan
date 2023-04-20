@@ -8,7 +8,7 @@
 ![REST](https://img.shields.io/badge/-REST-FFA07A?style=flat)
 
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 
 
