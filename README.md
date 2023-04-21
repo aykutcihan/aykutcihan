@@ -8,7 +8,7 @@
 - ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat)
 
 
-### Connect with me
+### Connect with me:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykutcihan/)
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aykutcihan)
@@ -19,7 +19,7 @@
 - [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/aykutcihan)
 
 
-### Hobbies and Interests
+### Hobbies and Interests:
 
 - 📚 Reading books
 - 🎻 Playing the violin
