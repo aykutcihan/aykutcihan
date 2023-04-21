@@ -3,6 +3,7 @@
 ### Languages and Tools:
 
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+- https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 - ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL)
 - ![Database](https://img.shields.io/badge/-Database-316192?style=flat&logo=PostgreSQL)
