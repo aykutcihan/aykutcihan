@@ -1,4 +1,4 @@
-### Skills and Technologies
+### Languages and Tools:
 
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
