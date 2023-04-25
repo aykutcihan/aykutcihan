@@ -25,7 +25,7 @@
 - [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aykutcihan/)
 - [![Facebook](https://img.shields.io/badge/-Facebook-000000?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/acd24)
 - [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram&logoColor=white)](https://t.me/aykutcihan)
-- [![Skype](https://img.shields.io/badge/-Skype-000000?style=flat&logo=skype&logoColor=white)](skype:aykutcihandemir_1)
+- [![Skype](https://img.shields.io/badge/-Skype-000000?style=flat&logo=skype&logoColor=white)](skype:aykutcihandemir_1?chat)
 - [![Email](https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:aykutcihandemir@protonmail.com)
 
 
