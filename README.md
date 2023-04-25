@@ -4,7 +4,8 @@
 - 🎓 I graduated from Fatih University with a degree in Chemistry and hold a master's degree.
 - 💼 I'm currently enrolled in a Full Stack Java Developer course at TechPro Education.
 
-🛠️ My technical skills:
+<h2 style="color:blue;">🛠️ My technical skills:</h2>
+
 
   - Programming languages:
     - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
