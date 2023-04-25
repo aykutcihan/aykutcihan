@@ -1,8 +1,8 @@
 <h1>𝐇𝐢, 𝐈'𝐦 𝐀𝐲𝐤𝐮𝐭 👋</h1>
 
--👨‍💻 I'm a Full Stack Java Developer with a background in chemistry.
--🎓 I graduated from Fatih University with a degree in Chemistry and hold a master's degree.
--💼 I'm currently enrolled in a Full Stack Java Developer course at TechPro Education.
+- 👨‍💻 I'm a Full Stack Java Developer with a background in chemistry.
+- 🎓 I graduated from Fatih University with a degree in Chemistry and hold a master's degree.
+- 💼 I'm currently enrolled in a Full Stack Java Developer course at TechPro Education.
 
 🛠️ My technical skills:
 
