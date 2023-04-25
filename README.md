@@ -1,14 +1,13 @@
 <h1>𝐇𝐢, 𝐈'𝐦 𝐀𝐲𝐤𝐮𝐭 👋</h1>
 
-👨‍💻 I'm a Full Stack Java Developer with a background in chemistry.
-🎓 I graduated from Fatih University with a degree in Chemistry and hold a master's degree.
-💼 I'm currently enrolled in a Full Stack Java Developer course at TechPro Education.
+👨‍💻 -I'm a Full Stack Java Developer with a background in chemistry.
+🎓 -I graduated from Fatih University with a degree in Chemistry and hold a master's degree.
+💼 -I'm currently enrolled in a Full Stack Java Developer course at TechPro Education.
 
 🛠️ My technical skills:
 
   - Programming languages:
     - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-    - ![Java](https://img.shields.io/badge/lauguage-java-blue?logo=Ionic&logoColor=white)
   - Web technologies: HTML, CSS, Spring Boot
   - Databases: 
     - ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL)
