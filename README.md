@@ -12,7 +12,6 @@
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 - **Web technologies:** HTML, CSS, Spring Boot
 - **Databases:**
-  - ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL)
   - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=PostgreSQL)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 - **Others:**
