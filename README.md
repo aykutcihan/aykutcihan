@@ -29,7 +29,7 @@
 - [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram&logoColor=white)](https://t.me/aykutcihan)
 
 
-### Hobbies and Interests:
+🎨 Hobbies and Interests:
 
 - 📚 Reading books
 - 🎻 Playing the violin
