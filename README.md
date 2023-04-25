@@ -26,7 +26,7 @@
 - [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aykutcihan/)
 - [![Facebook](https://img.shields.io/badge/-Facebook-000000?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/acd24)
 - [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram&logoColor=white)](https://t.me/aykutcihan)
-- 📧 [Email: aykutcihandemir@protonmail.com](mailto:aykutcihandemir@protonmail.com)
+- 📧 [Email](mailto:aykutcihandemir@protonmail.com)
 
 ## 🎨 Hobbies and Interests
 
