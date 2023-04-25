@@ -1,17 +1,24 @@
-<h1>𝐇𝐢, 𝐈'𝐦 𝐀𝐲𝐤𝐮𝐭</h1>
+<h1>𝐇𝐢, 𝐈'𝐦 𝐀𝐲𝐤𝐮𝐭 👋</h1>
 
-### Languages and Tools:
+👨‍💻 I'm a Full Stack Java Developer with a background in chemistry.
+🎓 I graduated from Fatih University with a degree in Chemistry and hold a master's degree.
+💼 I'm currently enrolled in a Full Stack Java Developer course at TechPro Education.
 
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-- ![Java](https://img.shields.io/badge/lauguage-java-blue?logo=Ionic&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-- ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL)
-- ![Database](https://img.shields.io/badge/-Database-316192?style=flat&logo=PostgreSQL)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-- ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat)
+🛠️ My technical skills:
 
+  - Programming languages:
+    - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+    - ![Java](https://img.shields.io/badge/lauguage-java-blue?logo=Ionic&logoColor=white)
+  - Web technologies: HTML, CSS, Spring Boot
+  - Databases: 
+    - ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL)
+    - ![Database](https://img.shields.io/badge/-Database-316192?style=flat&logo=PostgreSQL)
+    - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+  - Others:
+    - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+    - ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat)
 
-### Connect with me:
+🔗 Social media accounts and contact:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykutcihan/)
 - [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aykutcihan)
@@ -39,6 +46,41 @@
 
 
 <!--
+
+
+
+🌟 Highlighted projects:
+  - [YemekTarifleri](https://github.com/mehmetyilmaz/YemekTarifleri): A web application for users to share recipes, developed using Java, Spring Boot, and React.
+  - [FilmTavsiyesi](https://github.com/mehmetyilmaz/FilmTavsiyesi): A machine learning project to create a movie recommendation system.
+
+📚 Areas I'm currently learning:
+  - Advanced data structures and algorithms
+  - Cloud computing and AWS services
+  - Deep learning and TensorFlow
+
+🏅 Achievements and certificates:
+  - "Full Stack Java Developer" certificate from XYZ Coding Bootcamp
+  - First place in the 2021 "CodeFest" hackathon
+
+👨‍💼 Work experience:
+  - Full Stack Java Developer, XYZ Company (2021 - Present)
+  - Software Development Intern, ABC Company (2020)
+
+🔗 Social media accounts and contact:
+  - [LinkedIn](https://www.linkedin.com/in/mehmetyilmaz/)
+  - [Twitter](https://twitter.com/mehmetyilmaz_)
+  - Email: mehmetyilmaz@gmail.com
+
+🎨 Hobbies and interests:
+  - Playing the violin
+  - Tennis
+  - Ebru art (Turkish marbling)
+  - Reading books
+
+
+
+
+
 **aykutcihan/aykutcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
