@@ -5,6 +5,8 @@
 - 💼 I'm currently enrolled in a Full Stack Java Developer course at TechPro Education.
 
 <h2 style="color:blue;">🛠️ My technical skills:</h2>
+<code><span style="color:blue;">🛠️ My technical skills:</span></code>
+
 
 
   - Programming languages:
