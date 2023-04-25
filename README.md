@@ -13,7 +13,7 @@
 - **Web technologies:** HTML, CSS, Spring Boot
 - **Databases:**
   - ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL)
-  - ![PostgreSQL](https://img.shields.io/badge/-Database-316192?style=flat&logo=PostgreSQL)
+  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=PostgreSQL)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 - **Others:**
   - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
